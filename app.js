@@ -1,6 +1,6 @@
 require(["test"],
 
     function(test) {
-        alert(test.a);
+        alert(test.message);
     }
 );

@@ -1,6 +1,6 @@
 require.config({
 	waitSeconds: 30,
-	baseUrl: "/test",
+	baseUrl: "test",
 	paths: {},
 	hbs : {},
 	shim: {},

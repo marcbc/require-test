@@ -1,6 +1,6 @@
 define([],
 
 	function() {
-        return {a: 1};
+        return {message: "I was loaded!"};
 	}
 );
